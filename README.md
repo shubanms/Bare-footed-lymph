@@ -105,7 +105,7 @@ DATE  | Question  |  Answer
 22/01/2023  |  [Question]()  |  [Answer]()
 23/01/2023  |  [Question]()  |  [Answer]()
 24/01/2023  |  [Question]()  |  [Answer]()
-25/01/2023  |  [Question]()  |  [Answer]()
+25/01/2023  |  [Type It!](https://practice.geeksforgeeks.org/problems/95080eb9efbf7cc5cb4851ddf8d7946e3f212a49/1)  |  [Answer](https://github.com/shubanms/Bare-footed-lymph/blob/5e1f56976db865984e972f1176519699da5a199a/TypeIt.py)
 
 # Contributing
 
